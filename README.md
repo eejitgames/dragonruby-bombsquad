@@ -14,3 +14,4 @@ Try and get them all in the right sequence before the time runs out !
 
 Note: the html version is a tad slow, the other versions run better
 
+Special mention to Akzidenz, Pineapple, along with many other amazing and helpful people in the DragonRuby discord.
